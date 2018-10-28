@@ -1,0 +1,22 @@
+#
+You wake up in a mysterious cave and don't remember why you are here. Your head is hurting and you feel tired. What to do you do? (Write a or b and press Enter)
+a) Study the cave b) Start walking away from the cave
+Spider webs are all around you and it is difficult for you to see but in distance you see light. It looks like this is the way out and you start walking towards the light.
+You see in distance a light. This must be the way out from the cave and you start walking towards the light.
+
+#
+There is a door with a lock. It is written that to open this door you must answer a question. What is 2*111? (Write the answer down and press Enter)
+You opened the door and now you have escaped the cave.
+
+#
+You find yourself in a forest where everything around you is very green and bright. It is a day and birds are singing.
+In distance you see a lake and you start walking towards it. Write a and press Enter to continue.
+
+#
+You are next to a lake. You see in the right a tree where is written a question. What goes up in the morning up and goes down in the evening? Write down the answer and press Enter.
+You answered correctly and you see in distance a very high mountain. You plan to go there.
+
+#
+You have arrived on top of a mountain. It is very windy here and you feel cold. There is a tower not so far. You start to go towards it.
+To enter this tower you must answer this question. Why you are here?
+a) I don't know b) I know c) What's the stupid question
