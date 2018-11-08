@@ -1,5 +1,5 @@
 # A text adventure using C language
-A small text adventure written in C language
+A small text adventure written in C language.
 
 Tested in Linux and should work in Linux.
 
